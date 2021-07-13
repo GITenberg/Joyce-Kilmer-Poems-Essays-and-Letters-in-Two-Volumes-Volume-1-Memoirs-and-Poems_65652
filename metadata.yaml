@@ -1,0 +1,35 @@
+_repo: Joyce-Kilmer-Poems-Essays-and-Letters-in-Two-Volumes-Volume-1-Memoirs-and-Poems_65652
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Kilmer, Joyce
+    alias: Kilmer, Alfred Joyce
+    birthdate: 1886
+    deathdate: 1918
+    gutenberg_agent_id: '149'
+    url: http://www.gutenberg.org/2009/agents/149
+    wikipedia: https://en.wikipedia.org/wiki/Joyce_Kilmer
+  editor:
+    agent_name: Holliday, Robert Cortes
+    birthdate: 1880
+    deathdate: 1947
+    gutenberg_agent_id: '5191'
+    url: http://www.gutenberg.org/2009/agents/5191
+    wikipedia: https://en.wikipedia.org/wiki/Robert_Cortes_Holliday
+description: ''
+gutenberg_issued: '2021-06-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '65652'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'American poetry'
+- !lcsh 'Kilmer, Joyce, 1886-1918'
+- !lcc 'PS'
+- GITenberg
+title: 'Joyce Kilmer: Poems, Essays and Letters in Two Volumes. Volume 1, Memoirs
+  and Poems'
+url: http://www.gutenberg.org/ebooks/65652
